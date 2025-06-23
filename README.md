@@ -46,8 +46,6 @@ gesture_project/
 
 ├── GUI.py               # Tkinter GUI for live webcam detection
 
-├── hand_gesture_model.h5        # Saved trained model
-
 └── README.md
 
 # Usage
